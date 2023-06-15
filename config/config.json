@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "PT Dwi Panca Ekatama | Bolting Service | Hydraulics Torque | Onsite machining | Flange Management",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Bigspring Light"
+    "logo_text": "Dwipanca Bolting"
   },
 
   "settings": {
@@ -22,9 +22,9 @@
   },
 
   "params": {
-    "contact_form_action": "",
+    "contact_form_action": "info@dwipancabolting.id",
     "tag_manager_id": "",
-    "footer_content": "Perumahan Paspampres Griya Garda Garuda Blok C3 no.13, Muktiwari, Kab. Bekasi, Jawa Barat, Indonesia",
+    "footer_content": "Griya Garda Garuda Blok C3 no.13, Muktiwari, Kab. Bekasi, Jawa Barat, Indonesia",
     "copyright": "PT DWI PANCA EKATAMA 2023"
   },
 
