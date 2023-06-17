@@ -4,6 +4,12 @@ Allow: /blogs
 Allow: /blogs/*
 Allow: /contact
 Allow: /faq
+Allow: /images
+Allow: /images/*
+Allow: /images/logo/*
+Allow: /images/person/*
+Allow: /images/signatures/*
+Allow: /images/content/*
 
 Disallow: /api/*
 

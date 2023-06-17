@@ -1,7 +1,7 @@
 ---
 title: "Tentang Kami"
 description: "Bagaimana kami memulai ini."
-image: "/images/blog-1.jpg"
+image: "/images/content/tentang-kami.png"
 date: 2022-04-04T05:00:00Z
 draft: false
 ---
