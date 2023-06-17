@@ -2,7 +2,7 @@
 banner:
   title: the needs for bolt torque and hydraulic requirements
   content: PT Dwi Panca Ekatama adalah perusahaan yang bergerak di bidang flange management, bolting service, dan rental hydraulics torque. Kami menyediakan layanan profesional dalam mengelola flange, melakukan pemasangan baut dengan presisi tinggi, dan menyewakan alat-alat hydraulics torque yang handal. Dengan pengalaman dan pengetahuan yang luas, tim kami siap membantu Anda dalam memastikan keandalan dan keamanan sistem flange serta menjaga kinerja yang optimal. Kami berkomitmen untuk memberikan solusi yang terbaik dan memenuhi kebutuhan pelanggan kami. Hubungi PT Dwi Panca Ekatama untuk layanan terpercaya dalam flange management, bolting service, dan rental hydraulics torque.
-  image: /images/banner-art.svg
+  image: /images/banner-art.png
   button:
     label: "Contact Us"
     link: "/contact"
