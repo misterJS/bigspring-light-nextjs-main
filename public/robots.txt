@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
+Allow: /blogs
+Allow: /blogs/*
+Allow: /contact
+Allow: /faq
 
 Disallow: /api/*
+
+Sitemap: https://www.example.com/sitemap.xml

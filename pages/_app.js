@@ -3,6 +3,7 @@ import theme from "@config/theme.json";
 import Head from "next/head";
 import { useEffect, useState } from "react";
 import TagManager from "react-gtm-module";
+import { Analytics } from '@vercel/analytics/react';
 import "styles/style.scss";
 
 const App = ({ Component, pageProps }) => {
@@ -54,6 +55,7 @@ const App = ({ Component, pageProps }) => {
         />
       </Head>
       <Component {...pageProps} />
+      <Analytics />
     </>
   );
 };
