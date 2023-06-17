@@ -15,8 +15,9 @@ const Document = () => {
           href={favicon}
         />
         {/* theme meta */}
-        <meta name="theme-name" content="next-boilerplate" />
-        <meta name="msapplication-TileColor" content="#000000" />
+        <meta name="description" content="PT Dwi Panca Ekatama adalah perusahaan yang bergerak di bidang flange management, bolting service, dan rental hydraulics torque. Kami menyediakan layanan profesional dalam mengelola flange, melakukan pemasangan baut dengan presisi tinggi, dan menyewakan alat-alat hydraulics torque yang handal. Dengan pengalaman dan pengetahuan yang luas, tim kami siap membantu Anda dalam memastikan keandalan dan keamanan sistem flange serta menjaga kinerja yang optimal. Kami berkomitmen untuk memberikan solusi yang terbaik dan memenuhi kebutuhan pelanggan kami. Hubungi PT Dwi Panca Ekatama untuk layanan terpercaya dalam flange management, bolting service, dan rental hydraulics torque." />
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="msapplication-TileColor" content="#fff" />
         <meta
           name="theme-color"
           media="(prefers-color-scheme: light)"
@@ -25,7 +26,7 @@ const Document = () => {
         <meta
           name="theme-color"
           media="(prefers-color-scheme: dark)"
-          content="#000"
+          content="#fff"
         />
       </Head>
       <body>
