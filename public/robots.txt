@@ -7,4 +7,4 @@ Allow: /faq
 
 Disallow: /api/*
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://dwipancabolting.id/sitemap.xml
