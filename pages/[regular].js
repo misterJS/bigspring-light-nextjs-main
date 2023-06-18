@@ -8,7 +8,7 @@ import { getRegularPage, getSinglePage } from "@lib/contentParser";
 
 // for all regular pages
 const RegularPages = ({ data }) => {
-  const { title, meta_title, description, image, noindex, canonical, layout } =
+  const { title, meta_title, description, image, layout } =
     data.frontmatter;
   const { content } = data;
 
@@ -18,8 +18,7 @@ const RegularPages = ({ data }) => {
       description={description ? description : content.slice(0, 120)}
       meta_title={meta_title}
       image={image}
-      noindex={noindex}
-      canonical={canonical}
+      canonical={'https://www.dwipancabolting.id/'}
     >
       {layout === "404" ? (
         <NotFound data={data} />
