@@ -23,6 +23,13 @@ const Document = () => {
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-PNPRVWZ');`}} />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-EKMN2J6D2Y"></script>
+        <script dangerouslySetInnerHTML={{
+          __html: `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-EKMN2J6D2Y');`}} />
         <meta name="msapplication-TileColor" content="#fff" />
         <meta
           name="theme-color"
