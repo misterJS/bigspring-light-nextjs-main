@@ -35,9 +35,9 @@ services:
   - title: "Controlled Bolting"
     content: "The consistency of bolted joints is crucial when dealing with joint integrity as any inconsistencies can alter or damage a bolting operation, resulting in catastrophic disasters. Using Powermaster calibrated controlled bolting tools and accredited techniques provide reassurance that each bolted connection is correct and to a known value each time, eliminating the risk of errors."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/hydraulics.jpg"
+      - "/images/bolting-service.jpg"
+      - "/images/hydraulics-torque-wrench.jpeg"
     button:
       enable: true
       label: Check it out
@@ -46,7 +46,7 @@ services:
   - title: "On-Site Machining"
     content: "Powermaster’s On-Site, In-Situ Machining Services offer increased plant up-time and safety, while cutting assembly, dismantling and transport costs for refurbishment and maintenance of equipment and plant to a minimum. The process is carried out within customer control at their premises."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/bolting-service.jpg"
     button:
       enable: true
       label: Check it out
@@ -55,9 +55,9 @@ services:
   - title: "Repair and Calibration"
     content: "We provide industrial tool repairs for torque and tension equipment. A part of our dedication to providing our customers the highest quality and service, we offer exhaustive tool repair services for all of our products. Our advanced 120,000 Sq ft. facility offers high quality tool calibration services, repairing service, preventive maintenance programs and 24/7 service for all your tools and torque equipment."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/hydraulics-torque-wrench.jpeg"
+      - "/images/hydraulics.jpg"
+      - "/images/bolting-service.jpg"
     button:
       enable: true
       label: Check it out
@@ -66,9 +66,9 @@ services:
   - title: "Rental"
     content: "We understand that critical bolting applications can be tough on your gear - tools breakdown, need repair, or sometimes just aren't readily available. We offer a range of bolting rental tools so that your job can continue while bolting tools are being repaired or acquired."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/bolting-service.jpg"
+      - "/images/hydraulics-torque-wrench.jpeg"
+      - "/images/hydraulics.jpg"
     button:
       enable: true
       label: Check it out
