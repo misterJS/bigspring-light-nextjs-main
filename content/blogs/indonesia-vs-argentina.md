@@ -1,6 +1,6 @@
 ---
 title: "Indonesia vs Argentina"
-description: "ndonesia Menelan Kekalahan dari Argentina dalam Pertandingan Sepak Bola Tadi Malam"
+description: "Indonesia Menelan Kekalahan dari Argentina dalam Pertandingan Sepak Bola Tadi Malam"
 image: "/images/content/hasil-timnas-indonesia-vs-argentina-0-2.png"
 date: 2023-06-19T19:20:00Z
 draft: false
