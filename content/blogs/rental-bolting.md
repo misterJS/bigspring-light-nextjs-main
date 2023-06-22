@@ -2,7 +2,7 @@
 title: "Rental Bolting"
 description: "Layanan Penyewaan Alat-Alat Bolting untuk Proyek Konstruksi"
 image: "/images/content/rental-bolting-title.jpg"
-date: 2023-06-22T11:18:00Z
+date: 2023-06-22T11:18:00+07:00
 draft: false
 ---
 
