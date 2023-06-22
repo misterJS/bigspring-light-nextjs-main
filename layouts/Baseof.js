@@ -27,6 +27,8 @@ const Base = ({
           )}
         </title>
 
+        <meta name="keywords" content="rental bolting, flange management services, bolting service provider, hydraulic torque rental, industrial bolting solutions, torque wrench rental, flange integrity management, bolt tensioning services" />
+
         {/* canonical url */}
         {canonical && <link rel="canonical" href={canonical} itemProp="url" />}
 

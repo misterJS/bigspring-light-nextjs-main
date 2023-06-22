@@ -17,7 +17,6 @@ const Home = ({ frontmatter }) => {
   return (
     <>
       <Head>
-        {/* Tambahkan tag meta khusus untuk halaman ini */}
         <meta name="keywords" content="flange management services, bolting service provider, hydraulic torque rental, industrial bolting solutions, torque wrench rental, flange integrity management, bolt tensioning services" />
         <meta name="google-site-verification" content="RTw0CicvHny68Y6t5kHljvJRe4lH5O8o4a0yXZ20Jx0" />
       </Head>

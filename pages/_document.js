@@ -15,6 +15,7 @@ const Document = () => {
           href={favicon}
         />
         {/* theme meta */}
+        <meta name="keywords" content="flange management services, bolting service provider, hydraulic torque rental, industrial bolting solutions, torque wrench rental, flange integrity management, bolt tensioning services" />
         <meta name="description" content="PT Dwi Panca Ekatama adalah perusahaan yang bergerak di bidang flange management, bolting service, dan rental hydraulics torque. Kami menyediakan layanan profesional dalam mengelola flange, melakukan pemasangan baut dengan presisi tinggi, dan menyewakan alat-alat hydraulics torque yang handal. Dengan pengalaman dan pengetahuan yang luas, tim kami siap membantu Anda dalam memastikan keandalan dan keamanan sistem flange serta menjaga kinerja yang optimal. Kami berkomitmen untuk memberikan solusi yang terbaik dan memenuhi kebutuhan pelanggan kami. Hubungi PT Dwi Panca Ekatama untuk layanan terpercaya dalam flange management, bolting service, dan rental hydraulics torque." />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-EKMN2J6D2Y"></script>
