@@ -2,6 +2,7 @@ import config from "@config/config.json";
 import { plainify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import Link from "next/link";
+import { convertISOTime } from "@lib/converter";
 
 const Posts = ({ posts }) => {
   const { blog_folder, summary_length } = config.settings;
@@ -30,12 +31,15 @@ const Posts = ({ posts }) => {
                 {posts[0].frontmatter.title}
               </Link>
             </h2>
+            <div>
             <p className="text-text">
               {plainify(
                 posts[0].content?.slice(0, Number(summary_length)),
                 "div"
-              )}
+              )}...
             </p>
+            <p classname="font-bold mt-4">{convertISOTime(posts[0].frontmatter.date)}</p>
+            </div>
             <Link
               className="btn btn-primary mt-4"
               href={`/${blog_folder}/${posts[0].slug}`}

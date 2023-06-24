@@ -3,9 +3,10 @@ import shortcodes from "@shortcodes/all";
 import { MDXRemote } from "next-mdx-remote";
 import Image from "next/image";
 import Base from "./Baseof";
+import { convertISOTime } from "@lib/converter";
 
 const PostSingle = ({ frontmatter, content, mdxContent }) => {
-  let { description, title, image } = frontmatter;
+  let { description, title, image, date } = frontmatter;
   description = description ? description : content.slice(0, 120);
 
   return (
@@ -30,6 +31,7 @@ const PostSingle = ({ frontmatter, content, mdxContent }) => {
               <div className="content mb-16 text-left">
                 <MDXRemote {...mdxContent} components={shortcodes} />
               </div>
+              <>{convertISOTime(date)}</>
             </article>
           </div>
         </div>
