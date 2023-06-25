@@ -15,14 +15,14 @@ Namun, kegembiraan berubah menjadi tragedi ketika kapal selam tersebut tiba-tiba
 
 ![oceangate tenggelam](/images/content/kapal-selam.jpg "oceangate tenggelam")
 
-Investigasi sedang dilakukan oleh pihak berwenang untuk mencari tahu penyebab ledakan dan menyelidiki apakah ada kelalaian dalam prosedur keamanan kapal selam. Dalam pemeriksaan ini, peran [jasa rental bolting](https://dwipancabolting.id/contact) menjadi bagian penting dari analisis tersebut.
+Investigasi sedang dilakukan oleh pihak berwenang untuk mencari tahu penyebab ledakan dan menyelidiki apakah ada kelalaian dalam prosedur keamanan kapal selam. Dalam pemeriksaan ini, peran [jasa rental bolting](https://www.dwipancabolting.id/contact) menjadi bagian penting dari analisis tersebut.
 
-## Apa peran [rental bolting service](https://dwipancabolting.id/contact)?
+## Apa peran [rental bolting service](https://www.dwipancabolting.id/contact)?
 
-[Jasa rental bolting](https://dwipancabolting.id/contact) adalah layanan yang memungkinkan perusahaan penyelenggara wisata untuk menyewa peralatan dan perlengkapan tambahan dari pihak ketiga. Dalam konteks kejadian ini, pertanyaannya adalah apakah perusahaan penyelenggara kapal selam wisata telah melakukan penilaian risiko yang memadai terhadap penyedia [jasa rental bolting](https://dwipancabolting.id/contact) dan memastikan bahwa peralatan yang disewa memenuhi standar keselamatan yang sesuai.
+[Jasa rental bolting](https://www.dwipancabolting.id/contact) adalah layanan yang memungkinkan perusahaan penyelenggara wisata untuk menyewa peralatan dan perlengkapan tambahan dari pihak ketiga. Dalam konteks kejadian ini, pertanyaannya adalah apakah perusahaan penyelenggara kapal selam wisata telah melakukan penilaian risiko yang memadai terhadap penyedia [jasa rental bolting](https://www.dwipancabolting.id/contact) dan memastikan bahwa peralatan yang disewa memenuhi standar keselamatan yang sesuai.
 
 Keselamatan penumpang dan perlindungan terhadap lingkungan laut harus menjadi prioritas utama dalam industri pariwisata. Kejadian tragis ini menjadi pengingat bagi semua pihak terlibat dalam penyelenggaraan perjalanan wisata untuk selalu mengutamakan keselamatan, melakukan penilaian risiko yang memadai, dan mematuhi regulasi yang berlaku.
 
 Pemerintah dan badan pengatur harus memperketat pengawasan terhadap industri pariwisata yang melibatkan kapal selam wisata, termasuk mengawasi keselamatan kapal selam, pelatihan awak kapal, pemeriksaan berkala terhadap peralatan, dan persyaratan lisensi yang ketat.
 
->Kami [PT Dwi Panca Ekatama](https://dwipancabolting.id/contact) berharap, tragedi ini akan mendorong perbaikan sistem dan standar di industri kapal selam wisata serta meningkatkan kesadaran akan pentingnya keamanan dan keselamatan dalam perjalanan wisata.
+>Kami [PT Dwi Panca Ekatama](https://www.dwipancabolting.id/contact) berharap, tragedi ini akan mendorong perbaikan sistem dan standar di industri kapal selam wisata serta meningkatkan kesadaran akan pentingnya keamanan dan keselamatan dalam perjalanan wisata.
