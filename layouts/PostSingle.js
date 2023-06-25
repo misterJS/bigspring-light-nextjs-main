@@ -47,7 +47,7 @@ const PostSingle = ({ frontmatter, content, mdxContent, posts }) => {
                   >
                     {post.frontmatter.image && (
                       <Image
-                        className="rounded-lg bg-contain"
+                        className="rounded-lg bg-cover"
                         src={post.frontmatter.image}
                         alt={post.frontmatter.title}
                         width={"445"}
