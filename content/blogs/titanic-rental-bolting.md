@@ -1,5 +1,5 @@
 ---
-title: "Tenggelamnya Kapal Selam Wisata dalam Pencarian Bangkai Kapal Titanic dan Peran Jasa Rental Bolting"
+title: "Antara Titanic & Jasa Rental Bolting"
 description: "Tragedi tragis menimpa CEO OCEAN GATE"
 image: "/images/content/kapal-selam.png"
 date: 2023-06-23T13:44:00+07:00
