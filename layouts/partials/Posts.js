@@ -54,11 +54,12 @@ const Posts = ({ posts }) => {
         <div key={`key-${i}`} className="col-12 mb-8 sm:col-6 lg:col-4">
           {post.frontmatter.image && (
             <Image
-              className="rounded-lg"
+              className="rounded-lg bg-cover"
               src={post.frontmatter.image}
               alt={post.frontmatter.title}
               width={i === 0 ? "925" : "445"}
               height={i === 0 ? "475" : "230"}
+              style={{ height: '235px' }}
             />
           )}
           <h2 className="h3 mb-2 mt-4">

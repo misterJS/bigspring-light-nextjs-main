@@ -47,11 +47,12 @@ const PostSingle = ({ frontmatter, content, mdxContent, posts }) => {
                   >
                     {post.frontmatter.image && (
                       <Image
-                        className="rounded-lg"
+                        className="rounded-lg bg-contain"
                         src={post.frontmatter.image}
                         alt={post.frontmatter.title}
-                        width={i === 0 ? "925" : "445"}
-                        height={i === 0 ? "475" : "230"}
+                        width={"445"}
+                        height={"230"}
+                        style={{ height: '177px' }}
                       />
                     )}
                     <h2 className="h3 mb-2 mt-4">

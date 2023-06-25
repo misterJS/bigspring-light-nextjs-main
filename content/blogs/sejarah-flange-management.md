@@ -1,5 +1,5 @@
 ---
-title: "Sejarah Flange Management:"
+title: "Sejarah Flange Management"
 description: "Pengelolaan Sambungan Pipa yang Aman dan Efisien"
 image: "/images/content/flange-management-new.jpg"
 date: 2023-06-25T03:05:00+07:00
