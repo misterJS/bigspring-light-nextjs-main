@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions
+meta_title: "PT Dwi Panca Ekatama | Frequently Asked Questions"
 layout: faq
 draft: false
 faqs:
