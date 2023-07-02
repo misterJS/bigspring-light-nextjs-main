@@ -17,10 +17,10 @@ const BlogPagination = ({ postIndex, posts, currentPage, pagination }) => {
   const { title } = frontmatter;
 
   return (
-    <Base title={title}>
+    <Base title="PT Dwi Panca Ekatama | Rental Bolting Terpercaya | Flange management">
       <section className="section">
         <div className="container">
-          {markdownify(title, "h1", "h1 text-center font-normal text-[56px]")}
+          {indexOfFirstPost === 0 && markdownify(title, "h1", "h1 text-center font-normal text-[56px]")}
           <Posts posts={currentPosts} />
           <Pagination
             section={blog_folder}
