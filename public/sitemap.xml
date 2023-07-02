@@ -1,80 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url>
-  <loc>https://www.dwipancabolting.id/</loc>
-  <lastmod>2023-06-18T10:08:02+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs</loc>
-  <lastmod>2023-06-18T10:08:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/contact</loc>
-  <lastmod>2023-06-18T10:08:02+00:00</lastmod>
-  <priority>0.75</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/faq</loc>
-  <lastmod>2023-06-18T10:08:02+00:00</lastmod>
-  <priority>0.70</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/flange-management</loc>
-  <lastmod>2023-06-18T10:08:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/tentang-kami</loc>
-  <lastmod>2023-06-18T10:08:02+00:00</lastmod>
-  <priority>0.63</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/bolting-service</loc>
-  <lastmod>2023-06-19T05:00:00Z</lastmod>
-  <priority>0.62</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/indonesia-vs-argentina</loc>
-  <lastmod>2023-06-19T19:20:00Z</lastmod>
-  <priority>0.61</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/rental-bolting</loc>
-  <lastmod>2023-06-22T11:18:00+07:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/tukang-selingkuh</loc>
-  <lastmod>2023-06-22T04:39:00Z</lastmod>
-  <priority>0.59</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/titanic-rental-bolting</loc>
-  <lastmod>2023-06-23T13:44:00+07:00</lastmod>
-  <priority>0.58</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/sejarah-rental-bolting</loc>
-  <lastmod>2023-06-25T02:34+07:00</lastmod>
-  <priority>0.57</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/sejarah-flange-management</loc>
-  <lastmod>2023-06-25T03:05:00+07:00</lastmod>
-  <priority>0.56</priority>
-</url>
-<url>
-  <loc>https://www.dwipancabolting.id/blogs/keluhan-klien-pada-bisnis-bolting</loc>
-  <lastmod>2023-06-25T03:07:00+07:00</lastmod>
-  <priority>0.55</priority>
-</url>
-
+  <url>
+    <loc>https://www.dwipancabolting.id/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://dwipancabolting.id/</loc>
+    <priority>0.98</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs</loc>
+    <lastmod>2023-06-18T10:08:02+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/contact</loc>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/faq</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/flange-management</loc>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/tentang-kami</loc>
+    <priority>0.63</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/bolting-service</loc>
+    <priority>0.62</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/indonesia-vs-argentina</loc>
+    <priority>0.61</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/rental-bolting</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/tukang-selingkuh</loc>
+    <priority>0.59</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/titanic-rental-bolting</loc>
+    <priority>0.58</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/sejarah-rental-bolting</loc>
+    <priority>0.57</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/sejarah-flange-management</loc>
+    <priority>0.56</priority>
+  </url>
+  <url>
+    <loc>https://www.dwipancabolting.id/blogs/keluhan-klien-pada-bisnis-bolting</loc>
+    <priority>0.55</priority>
+  </url>
 
 </urlset>
