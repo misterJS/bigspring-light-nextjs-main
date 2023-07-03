@@ -1,7 +1,7 @@
 ---
 banner:
   title: The Needs For Bolt Torque And Hydraulic Requirements
-  content: PT Dwi Panca Ekatama is a company specialized in flange management, bolting service, and rental of hydraulic torque equipment. We provide professional services in managing flanges, performing high-precision bolt installations, and offering reliable hydraulic torque tool rentals. With extensive experience and knowledge, our team is ready to assist you in ensuring the reliability and safety of your flange systems while maintaining optimal performance. We are committed to delivering the best solutions and meeting the needs of our customers. Contact PT Dwi Panca Ekatama for reliable services in flange management, bolting service, and rental of hydraulic torque equipment.
+  content: To become the leading provider of bolting solutions, revolutionizing industry standards through innovative technology and exceptional service, while ensuring utmost safety and efficiency in every project.
   image: /images/banner-art.png
   button:
     label: "Contact Us"
