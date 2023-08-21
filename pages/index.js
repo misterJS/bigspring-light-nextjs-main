@@ -9,18 +9,52 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper.min.css";
 import { getListPage } from "../lib/contentParser";
 import Head from "next/head";
+import { useEffect, useState } from "react";
 
 const Home = ({ frontmatter }) => {
   const { banner, feature, services, workflow, call_to_action } = frontmatter;
   const { title } = config.site;
+  const [showFloatingButton, setShowFloatingButton] = useState(false);
 
+  // Event handler for scrolling
+  const handleScroll = () => {
+    if (window.scrollY > 300) {
+      setShowFloatingButton(true);
+    } else {
+      setShowFloatingButton(false);
+    }
+  };
+
+  // Attach the scroll event listener
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
   return (
     <>
       <Head>
-        <meta name="keywords" content="flange management services, bolting service provider, hydraulic torque rental, industrial bolting solutions, torque wrench rental, flange integrity management, bolt tensioning services" />
-        <meta name="google-site-verification" content="RTw0CicvHny68Y6t5kHljvJRe4lH5O8o4a0yXZ20Jx0" />
+        <meta
+          name="keywords"
+          content="flange management services, bolting service provider, hydraulic torque rental, industrial bolting solutions, torque wrench rental, flange integrity management, bolt tensioning services"
+        />
+        <meta
+          name="google-site-verification"
+          content="RTw0CicvHny68Y6t5kHljvJRe4lH5O8o4a0yXZ20Jx0"
+        />
       </Head>
       <Base title={title}>
+        {showFloatingButton && (
+          <a
+            className="floating-button"
+            href="https://wa.me/+6285217540198"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Contact Us
+          </a>
+        )}
         {/* Banner */}
         <section className="section pb-[50px]">
           <div className="container">
@@ -107,7 +141,12 @@ const Home = ({ frontmatter }) => {
                       {/* Slides */}
                       {service?.images.map((slide, index) => (
                         <SwiperSlide key={index}>
-                          <Image src={slide} alt={slide} width={600} height={500} />
+                          <Image
+                            src={slide}
+                            alt={slide}
+                            width={600}
+                            height={500}
+                          />
                         </SwiperSlide>
                       ))}
                     </Swiper>
@@ -115,11 +154,14 @@ const Home = ({ frontmatter }) => {
 
                   {/* Content */}
                   <div
-                    className={`service-content mt-5 md:mt-0 ${!isOdd && "md:order-1"
-                      }`}
+                    className={`service-content mt-5 md:mt-0 ${
+                      !isOdd && "md:order-1"
+                    }`}
                   >
-                    <h2 className="font-bold leading-[40px]">{service?.title}</h2>
-                    <p className="mt-4 mb-2">{service?.content}</p>
+                    <h2 className="font-bold leading-[40px]">
+                      {service?.title}
+                    </h2>
+                    <p className="mb-2 mt-4">{service?.content}</p>
                     {service.button.enable && (
                       <Link
                         href={service?.button.link}
