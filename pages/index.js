@@ -48,7 +48,7 @@ const Home = ({ frontmatter }) => {
         {showFloatingButton && (
           <a
             className="floating-button"
-            href="https://wa.me/+6285217540198"
+            href="https://wa.me/+6285213093590"
             target="_blank"
             rel="noreferrer"
           >
