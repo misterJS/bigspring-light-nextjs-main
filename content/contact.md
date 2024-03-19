@@ -9,5 +9,5 @@ info:
   contacts: 
     - "Phone: [+62 882 1076 4116](https://wa.me/+6288210764116)"
     - "Mail: [info@dwipancabolting.id](mailto:info@dwipancabolting.id)"
-    - "Address: Griya Garda Garuda Blok C3 no.13, Muktiwari, Kab. Bekasi, Jawa Barat, Indonesia"
+    - "Address: Griya Garda Garuda Blok C4 no.5, Muktiwari, Kab. Bekasi, Jawa Barat, Indonesia"
 ---
