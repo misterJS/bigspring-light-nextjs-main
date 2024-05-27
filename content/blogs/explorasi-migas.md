@@ -2,7 +2,7 @@
 title: "Eksplorasi Migas 2024 di Indonesia"
 description: "Eksplorasi Migas di Indonesia: Ancaman Lingkungan atau Peluang Emas Bagi Pencari Kerja?"
 image: "/images/content/explorasi-migas.png"
-date: 2024-05-27T05:00:00Z
+date: 2024-05-27T11:33:00Z
 draft: false
 ---
 
